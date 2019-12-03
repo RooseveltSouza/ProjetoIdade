@@ -14,14 +14,15 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px #44444454;
+    
 }
 footer {
     color: #fff;
     text-align: center;
     font-style: italic;
 }
-#titulo {
-    text-align: center;
+#info {
+    padding: 10px;
 }
 #image {
     width: 300px;
